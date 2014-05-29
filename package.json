@@ -1,0 +1,15 @@
+{
+  "name": "drunken-bear",
+  "version": "0.0.0",
+  "description": "drunken-bear ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brent Scheibelhut",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "~1.3.1",
+    "express": "~4.3.1"
+  }
+}
